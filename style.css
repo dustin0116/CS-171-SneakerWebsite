@@ -2,15 +2,15 @@ body {
   font-family: 'proxima-soft', sans-serif;
   font-style: normal;
   font-weight: 200;
-  font-size: 12px;
+  font-size: 14px;
   margin: 0;
 }
 
-h1.h {
+h2.h {
   color:#2F4F4F;
 }
 
-h2.sub {
+h3.sub {
   color: black;
 }
 
