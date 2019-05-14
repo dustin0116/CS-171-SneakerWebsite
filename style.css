@@ -7,13 +7,11 @@ body {
   background-image: url("images/background.jpg");
 }
 
-.banner {display: block;}
+.banner {display: block;} /* Remove bottom white space disappear */
 
 div.center {margin-right: 35%;}
 
-div.generic{padding:0 16px;}
-
-img.imgsize {width: 35%;}
+img.imgsize {width: 45%;}
 
 img.logo {width: 15%;}
 
@@ -52,8 +50,9 @@ ul.topnav li.right {float: right;}
 @media screen and (max-width: 480px) {
   ul.topnav li.right,
   ul.topnav li {float: none;}
-  img.logo {width: 100%;}
+  img.logo {padding: 0 25%; width: 50%;}
   img.imgsize {width: 100%;}
   div.center{margin: 0 16px;}
-  div.generic{margin: 0 16px;}
+  h2.h{text-align: center;}
+  h3.sub{text-align: center;}
 }
