@@ -63,6 +63,6 @@ ul.topnav li.right {float: right;}
   ul.topnav li.right,
   ul.topnav li {float: none;},
   img.logo {width: 60%;}
-  img.imgsize {width: 80%;}
-  div.center{margin-right: 0;};
+  img.imgsize {width: 90%;}
+  div.center{margin: 1em;};
 }
