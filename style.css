@@ -2,14 +2,14 @@ body {
   font-family: 'proxima-soft', sans-serif;
   font-style: normal;
   font-weight: 200;
-  font-size: 15px;
+  font-size: 16px;
   margin: 0;
   background-image: url("images/background.jpg");
 }
 
 .banner {display: block;} /* Remove bottom white space disappear */
 
-div.center {margin-left: 20%; margin-right: 20%;}
+div.center {margin-left: 25%; margin-right: 25%;}
 
 div.separator{margin-bottom: 3em;}
 
