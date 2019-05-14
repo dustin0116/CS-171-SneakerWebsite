@@ -7,7 +7,7 @@
 </head>
 
 <body>
-  <img src="images/Sneaker Website Banner.jpg" alt="banner" width="100%" class="banner">
+  <img src="../images/Sneaker Website Banner.jpg" alt="banner" width="100%" class="banner">
 
   <div id="navbar">
     <a class="active" href="#home">Home</a>
@@ -31,20 +31,7 @@
     </p>
   </div>
 
-  <script>
-  window.onscroll = function() {myFunction()};
-
-  var navbar = document.getElementById("navbar");
-  var sticky = navbar.offsetTop;
-
-  function myFunction() {
-    if (window.pageYOffset >= sticky) {
-      navbar.classList.add("sticky")
-    } else {
-      navbar.classList.remove("sticky");
-    }
-  }
-</script>
+  <script src="navbar.js" charset="utf-8"></script>
 
 </body>
 </html>
