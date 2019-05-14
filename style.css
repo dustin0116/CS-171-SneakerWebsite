@@ -7,7 +7,7 @@ body {
   background-image: url("images/background.jpg");
 }
 
-.banner {display: block;} /* Remove bottom white space disappear */
+.banner {display: block;} /* Remove bottom white space. */
 
 div.center {margin-left: 25%; margin-right: 25%;}
 
@@ -15,7 +15,7 @@ div.separator{margin-bottom: 3em;}
 
 img.imgsize {width: 75%; margin-left: 12%;}
 
-img.logo {width: 25%; margin-left: 37.3%;}
+img.logo {width: 30%; margin-left: 35%;}
 
 h2.h {color:#2F4F4F; text-align: center;}
 
@@ -34,8 +34,10 @@ h3.sub {color: black; text-align: center;}
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 16px;
 }
+
+#navbar a.right{float: right;}
 
 #navbar a:hover {
   background-color: #ddd;
