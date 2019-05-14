@@ -13,17 +13,14 @@ body {
 
 div.center {
   margin-right: 35%;
-  padding:0 16px;
 }
 
 img.imgsize {
   max-width: 35%;
-  padding:0 16px;
 }
 
 img.logo {
   width: 15%;
-  padding:0 16px;
 }
 
 h2.h {
@@ -67,4 +64,5 @@ ul.topnav li.right {float: right;}
   ul.topnav li {float: none;},
   img.imgsize {width: 100%;}
   img.logo {width: 100%;}
+  div.center{margin-right: 16px};
 }
