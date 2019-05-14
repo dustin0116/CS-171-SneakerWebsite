@@ -15,6 +15,10 @@ body {
   width: 35%;
 }
 
+.logo {
+  width: 15%;
+}
+
 h2.h {
   color:#2F4F4F;
 }
@@ -53,8 +57,11 @@ ul.topnav li.right {float: right;}
 
 @media screen and (max-width: 600px) {
   ul.topnav li.right,
-  ul.topnav li {float: none;}
+  ul.topnav li {float: none;},
   .imgsize {
     width: 50%;
+  },
+  .logo {
+    width: 100%;
   }
 }
