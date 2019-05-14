@@ -9,7 +9,7 @@ body {
 
 .banner {display: block;} /* Remove bottom white space disappear */
 
-div.center {margin-left: 25%; margin-right: 25%;}
+div.center {margin-top: 21%; margin-left: 25%; margin-right: 25%;}
 
 div.separator{margin-bottom: 3em;}
 
@@ -22,11 +22,14 @@ h2.h {color:#2F4F4F; text-align: center;}
 h3.sub {color: black; text-align: center;}
 
 ul.topnav {
+  position: fixed;
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   background-color: #333;
+  width: 100%;
+  top: 0;
 }
 
 ul.topnav li {float: left;}
