@@ -67,5 +67,8 @@ ul.topnav li.right {float: right;}
   },
   img.logo {
     width: 100%;
+  },
+  div.center {
+    width: 100%;
   }
 }
