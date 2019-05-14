@@ -11,8 +11,12 @@ body {
   display: block;
 }
 
+div.center {
+  width: 65%;
+}
+
 img.imgsize {
-  width: 35%;
+  width: 30%;
 }
 
 img.logo {
