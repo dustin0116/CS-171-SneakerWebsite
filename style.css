@@ -49,7 +49,7 @@ ul.topnav li a.active {background-color: #005073;}
 
 ul.topnav li.right {float: right;}
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 600px) {
   ul.topnav li.right,
   ul.topnav li {float: none;}
   img.logo {padding: 0 25%; width: 50%;}
