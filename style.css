@@ -42,7 +42,7 @@ ul.topnav li a {
   font-style: normal;
   font-weight: 300;
   font-size: 16px;
-  padding: 14px 16px;
+  padding: 14px 15px;
   text-decoration: none;
 }
 
@@ -53,8 +53,8 @@ ul.topnav li a.active {background-color: #005073;}
 ul.topnav li.right {float: right;}
 
 @media screen and (max-width: 900px) {
-  ul.topnav li {float: left;}
-  ul.topnav li.right{float: left;}
+  ul.topnav li a {margin-left: auto;}
+  ul.topnav li.right
   img.logo {margin-left: 22%; width: 55%;}
   img.imgsize {margin-left: 0; width: 100%;}
   div.center{margin: 0 16px; margin-top: 31%;}
