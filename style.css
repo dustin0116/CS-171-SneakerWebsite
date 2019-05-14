@@ -16,7 +16,7 @@ div.center {
 }
 
 img.imgsize {
-  max-width: 35%;
+  width: 35%;
 }
 
 img.logo {
@@ -63,6 +63,6 @@ ul.topnav li.right {float: right;}
   ul.topnav li.right,
   ul.topnav li {float: none;},
   img.imgsize {width: 100%;}
-  img.logo {width: 100%;}
+  img.logo {width: 60%;}
   div.center{margin-right: 16px};
 }
