@@ -2,8 +2,13 @@ body {
   font-family: 'proxima-soft', sans-serif;
   font-style: normal;
   font-weight: 200;
-  font-size: 14px;
+  font-size: 15px;
   margin: 0;
+  background-image: url("images/background.jpg");
+}
+
+.banner {
+  display: block;
 }
 
 h2.h {
