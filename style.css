@@ -58,7 +58,7 @@ h3.sub {color: black; text-align: center;}
 }
 
 @media screen and (max-width: 900px) {
-  #navbar a {padding: 14px 13px;}
+  #navbar a {padding: 14px 8px;}
   img.logo {margin-left: 22%; width: 55%;}
   img.imgsize {margin-left: 0; width: 100%;}
   div.center{margin: 0 16px;}
