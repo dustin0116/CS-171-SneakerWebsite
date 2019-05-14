@@ -70,5 +70,6 @@ ul.topnav li.right {float: right;}
   },
   div.center {
     width: 100%;
+    text-align: center;
   }
 }
