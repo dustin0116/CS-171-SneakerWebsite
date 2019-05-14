@@ -49,6 +49,13 @@ h3.sub {color: black; text-align: center;}
   color: white;
 }
 
+#navbar a.right-active{
+  float: right;
+  background-color: #005073;
+  color: white;
+}
+
+
 .sticky {
   position: fixed;
   top: 0;
