@@ -69,6 +69,6 @@ ul.topnav li.right {float: right;}
     width: 100%;
   },
   div.center {
-    margin-right: auto;
+    margin-right: 0;
   }
 }
