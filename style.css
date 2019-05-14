@@ -7,29 +7,23 @@ body {
   background-image: url("images/background.jpg");
 }
 
-.banner {
-  display: block;
-}
+.banner {display: block;}
 
-div.center {
-  margin-right: 35%;
-}
+div.center {margin-right: 35%;}
 
 img.imgsize {
   width: 35%;
+  padding:0 16px;
 }
 
 img.logo {
   width: 15%;
+  padding:0 16px
 }
 
-h2.h {
-  color:#2F4F4F;
-}
+h2.h {color:#2F4F4F;}
 
-h3.sub {
-  color: black;
-}
+h3.sub {color: black;}
 
 ul.topnav {
   list-style-type: none;
