@@ -13,7 +13,7 @@ div.center {margin-left: 25%; margin-right: 25%;}
 
 div.separator{margin-bottom: 3em;}
 
-img.imgsize {width: 70%; margin-left: 15%;}
+img.imgsize {width: 75%; margin-left: 12%;}
 
 img.logo {width: 25%; margin-left: 37.3%;}
 
@@ -50,8 +50,7 @@ ul.topnav li a.active {background-color: #005073;}
 ul.topnav li.right {float: right;}
 
 @media screen and (max-width: 900px) {
-  ul.topnav li.right,
-  ul.topnav li {float: none;}
+  ul.topnav li.right{float: none;},
   img.logo {margin-left: 22%; width: 55%;}
   img.imgsize {margin-left: 0; width: 100%;}
   div.center{margin: 0 16px;}
