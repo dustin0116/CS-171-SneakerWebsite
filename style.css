@@ -11,6 +11,10 @@ body {
   display: block;
 }
 
+.imgsize {
+  width: 35%;
+}
+
 h2.h {
   color:#2F4F4F;
 }
