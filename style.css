@@ -62,7 +62,7 @@ ul.topnav li.right {float: right;}
 @media screen and (max-width: 480px) {
   ul.topnav li.right,
   ul.topnav li {float: none;},
-  img.imgsize {width: 100%;}
   img.logo {width: 60%;}
+  img.imgsize {width: 100%;}
   div.center{margin-right: 16px};
 }
