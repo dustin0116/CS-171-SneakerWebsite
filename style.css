@@ -13,7 +13,7 @@ div.center {margin-right: 35%;}
 
 img.imgsize {width: 40%;}
 
-img.logo {width: 15%;}
+img.logo {width: 25%;}
 
 h2.h {color:#2F4F4F;}
 
@@ -36,7 +36,7 @@ ul.topnav li a {
   font-family: 'proxima-extra-condensed', sans-serif;
   font-style: normal;
   font-weight: 300;
-  font-size: 18px;
+  font-size: 16px;
   padding: 14px 16px;
   text-decoration: none;
 }
