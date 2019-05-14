@@ -53,7 +53,8 @@ ul.topnav li a.active {background-color: #005073;}
 ul.topnav li.right {float: right;}
 
 @media screen and (max-width: 900px) {
-  ul.topnav li.right{float: right;}
+  ul.topnav li {float: left; margin-left: 1.43%;}
+  ul.topnav li.right{float: left;}
   img.logo {margin-left: 22%; width: 55%;}
   img.imgsize {margin-left: 0; width: 100%;}
   div.center{margin: 0 16px; margin-top: 31%;}
