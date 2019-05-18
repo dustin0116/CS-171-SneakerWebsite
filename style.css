@@ -58,14 +58,6 @@ h3.sub {color: black; text-align: center;}
 
 .sticky + .center {padding-top: 60px;}
 
-@media screen and (max-width: 900px) {
-  #navbar a {padding: 14px 8px;}
-  img.logo {margin-left: 22%; width: 55%;}
-  img.imgsize {margin-left: 0; width: 100%;}
-  div.center{margin: 0 16px;}
-  body{font-size: 18px;}
-}
-
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
@@ -101,4 +93,12 @@ a.icon {
 
 button.contact:hover, a.card:hover {
   opacity: 0.7;
+}
+
+@media screen and (max-width: 900px) {
+  #navbar a {padding: 14px 8px;}
+  img.logo {margin-left: 22%; width: 55%;}
+  img.imgsize {margin-left: 0; width: 100%;}
+  div.center{margin: 0 16px;}
+  body{font-size: 18px;}
 }
